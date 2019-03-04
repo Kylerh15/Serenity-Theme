@@ -6,7 +6,7 @@
     /* Background */
     --custombackground: url(https://cdn.discordapp.com/attachments/544195153506861056/551927194000031755/LowPolyWallpapergrey.png); /* Change the background */
     --blur: 0px !important; /* Adjust the amount of blur on the background */
-    --opacitybg: 0.3 !important; /* Change the transparency of the background. This is what controls the black overlay that is over the background */
+    --opacitybg: 0.5 !important; /* Change the transparency of the background. This is what controls the black overlay that is over the background */
     --opacityDiscord: 0.7 !important; /* Try removing your custom background and enable Transparency in BandagedBD settings. Also adjust opacitybg to 0 */
     --bgscale: 1; /* 0.3 to 3 */
     --bgrotation: 0deg; /* This option works out for some backgrounds, just in case. */
