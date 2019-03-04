@@ -1,7 +1,7 @@
 //META{"name":"Serenity","description":"The Official Theme For Serenity: https://discord.gg/ppRqdj3","author":"Kylerh15#2828","version":"AutoUpdate"}*//{}
 
 /* Please keep !important by each option, this helps override the fallback system */
-@import url("https://raw.githack.com/KorbsEditor/Dream-Frame/master/RAW/DreamFrameRAW.theme.css");
+@import url("https://raw.githack.com/kylerh15/Serenity-Theme/master/base.css");
 :root {
     /* Background */
     --custombackground: url(https://cdn.discordapp.com/attachments/544195153506861056/551927194000031755/LowPolyWallpapergrey.png); /* Change the background */
